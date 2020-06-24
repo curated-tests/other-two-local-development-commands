@@ -1,5 +1,6 @@
 {
     "scripts": {
+        "build": "echo 'I am build'",
         "dev": "echo 'I am dev'",
         "vercel-dev": "echo 'I am vercel dev'"
     }
